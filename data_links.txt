@@ -1,0 +1,19 @@
+Data links:
+
+Kaggle dataset (including data.csv): https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation 
+
+chunk_1: https://drive.google.com/drive/folders/1WA2isnOhWtqllZzxt70xTRb8SyuhV8WA?usp=drive_link
+chunk_3: https://drive.google.com/drive/folders/1Zhp9rfjRyLps6QOgX1gDF7lVtHbNEUap?usp=drive_link
+chunk_5: https://drive.google.com/drive/folders/1gfVoaEgMY7eJ2M2gkHZPyLQsCGzOkGtk?usp=drive_link
+chunk_7: https://drive.google.com/drive/folders/1Un5NgZcefyBZDwYaied4FujhIw0C4TqE?usp=drive_link
+chunk_9: https://drive.google.com/drive/folders/15miUoNx3nw5cukYjce_pEWvPwnhtBASt?usp=drive_link
+chunk_11: https://drive.google.com/drive/folders/1YfVkMV9FQEoBvCmJLB5AQ7x5BpQVjK5I?usp=drive_link
+chunk_13: https://drive.google.com/drive/folders/1VmKkYpscLWm7NJ2am5m7JWysdRymh2f6?usp=drive_link
+chunk_15: https://drive.google.com/drive/folders/1zD8lLo9TcBjHyekpJxnYykVkQvffhcr_?usp=drive_link
+chunk_17: https://drive.google.com/drive/folders/1C-GtZwlVg6dMDkXS9QEKxafpWvMq2LMZ?usp=drive_link
+chunk_19: https://drive.google.com/drive/folders/1coOer4qf7khs4tiq5e34q9E97l6BjbOu?usp=drive_link
+
+
+
+
+
